@@ -1,2 +1,2 @@
 # React-projects
-Corona-dashboard and sptify-clone has been deployed using docker.
+Corona-dashboard and spotify-clone has been deployed using docker.
